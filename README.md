@@ -5,9 +5,10 @@
 
 - 🌱 I’m currently learning **Python, Azure**
 
-- 💬 Ask me about **Aws,Devops**
 
-- 📫 How to reach me **santhoshece@live.in**
+- 📫 How to reach me **santhoshece@live.in** 
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CQoUhRaf4MsviLwPiKtYdKKSWkTwqQt6/view?usp=drive_link](https://drive.google.com/file/d/1CQoUhRaf4MsviLwPiKtYdKKSWkTwqQt6/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
