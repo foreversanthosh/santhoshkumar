@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Santhoshkumar</h1>
 <h3 align="center">A passionate DevOps engineer with over all 9 years of experience from India</h3>
 
+- 🔭 I’m currently working on **DSI Technology solutions private limited**
+
+- 🌱 I’m currently learning **Python, Azure**
+
+- 💬 Ask me about **Aws,Devops**
+
 - 📫 How to reach me **santhoshece@live.in**
 
 <h3 align="left">Connect with me:</h3>
